@@ -26,7 +26,7 @@ import re
 import string
 import warnings
 
-__version__ = "1.1.0.dev"
+__version__ = "1.1.0"
 
 SAFE = set(string.ascii_letters + string.digits)
 ESCAPE_CHAR = "_"
