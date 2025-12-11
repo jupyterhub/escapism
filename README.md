@@ -51,7 +51,7 @@ so it will always return a unique string that is valid in just about any kuberne
 
 - min length of 1
 - max length of 63
-- contains only lowercase ascii letters numbers, and '-'
+- contains only lowercase ascii letters, numbers, and '-'
 - starts with a letter
 - ends with a letter or number
 
