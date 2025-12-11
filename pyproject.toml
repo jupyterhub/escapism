@@ -1,6 +1,6 @@
 # PEP 621 build info
 [build-system]
-requires = ["setuptools>=61", "setuptools-scm"]
+requires = ["setuptools>=77", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 # Project metadata
@@ -16,7 +16,7 @@ authors = [
 ]
 keywords = ["escape"]
 license = "MIT"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
